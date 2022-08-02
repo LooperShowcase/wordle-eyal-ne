@@ -1,0 +1,21 @@
+body {
+  background-color: burlywood;
+}
+.game {
+  width: 100;
+}
+
+.word {
+  display: flex;
+  justify-content: center;
+}
+.char {
+  height: 100px;
+  width: 100px;
+  border: 5px rgb(226, 226, 224) solid;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 3px;
+}
